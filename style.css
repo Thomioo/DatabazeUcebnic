@@ -1,0 +1,54 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 65;
+}
+
+img {
+    height: 400px;
+    width: auto;
+    max-width: 500px;
+}
+
+p[id="name"] {
+    font-size: 40;
+    font-weight: bold;
+    width: fit-content;
+    margin: auto;
+    margin-top: 20px;
+}
+
+p[id="author"] {
+    font-size: 25;
+    width: fit-content;
+    margin: auto;
+    margin-top: 10px;
+}
+
+p[id="price"] {
+    font-size: 30;
+    font-weight: bolder;
+    width: fit-content;
+    margin: auto;
+    margin-top: 20px;
+}
+
+button {
+    width: 75px;
+    height: 75px;
+    border-width: 1spx;
+    border-color: black;
+    background-color: aqua;
+    border-radius: 10px;
+    /* font-weight: bold; */
+    font-size: 30;
+    text-align: center;
+}
+
+div {
+    margin-top: 30px;
+}
