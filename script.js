@@ -92,7 +92,7 @@ function Update() {
     author.innerHTML = data[index.toString()]["author"];
 
     let price = document.getElementById("price");
-    price.innerHTML = data[index.toString()]["price"] + " Kč.";
+    price.innerHTML = "Cena online: " + data[index.toString()]["price"] + " Kč.";
 
     document.getElementById("left").innerHTML = "<";
     document.getElementById("right").innerHTML = ">";
