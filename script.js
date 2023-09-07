@@ -38,7 +38,7 @@ data = {
         "price": 140
     },
     "6": {
-        "name": "Literatura pro 1. ročník gymnázií",
+        "name": "Literatura pro 1. ročník gymnázií (nepovinné)",
         "picture": "https://images-ext-1.discordapp.net/external/kWJM4HluzMICbuFZj-0ibTV7DIFQVY01OPzgd1iRd3A/https/img-cloud.megaknihy.cz/70119-large/afb1ccf7e4451e350de6bac674716e36/literatura-pro-1-rocnik-gymnazii.jpg?width=366&height=513",
         "author": "Josef Soukal",
         "price": 159
@@ -50,7 +50,7 @@ data = {
         "price": 144
     },
     "8": {
-        "name": "Přehled středoškolské fyziky",
+        "name": "Přehled středoškolské fyziky (nepovinné)",
         "picture": "https://images-ext-1.discordapp.net/external/rSdh0KYz6pZjZAf3QqIn9Hs2mwUkwGbbDNr4muODGJM/https/img-cloud.megaknihy.cz/486447-large/1108556d380b8a615d8c8595eefd8be7/prehled-stredoskolske-fyziky.jpg?width=366&height=513",
         "author": "Emanuel Svoboda",
         "price": 332
