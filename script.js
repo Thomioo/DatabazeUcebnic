@@ -14,7 +14,7 @@ data = {
         "price": 176
     },
     "2": {
-        "name": "Dějepis I. v kostce",
+        "name": "Dějepis I. v kostce (nepovinné)",
         "picture": "https://img-cloud.megaknihy.cz/49497-original/4da4eae97058734e3f24c462cd32bea8/dejepis-i-v-kostce-pro-stredni-skoly.jpg",
         "author": "Marie Sochrová",
         "price": 166
